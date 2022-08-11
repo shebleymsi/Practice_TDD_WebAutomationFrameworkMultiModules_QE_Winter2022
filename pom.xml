@@ -14,11 +14,6 @@
         <module>UnitedHealthCare</module>
         <module>UPS</module>
         <module>Delta</module>
-        <module>Amazon</module>
-        <module>Delta</module>
-        <module>Generic</module>
-        <module>UnitedHealthCare</module>
-        <module>UPS</module>
     </modules>
 
 
@@ -340,9 +335,11 @@
                             <suiteXmlFile>target/test-classes/UPSRegressionTestRunner.xml</suiteXmlFile>
 
 
+
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
+
 
 
                 <plugin>

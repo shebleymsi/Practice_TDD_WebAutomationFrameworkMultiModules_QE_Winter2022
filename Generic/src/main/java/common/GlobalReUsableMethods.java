@@ -437,7 +437,7 @@ public class GlobalReUsableMethods extends WebTestBase {
 
 
     public void getTitle() {
-       getLog("Get Title ");
+        getLog("Get Title ");
         driver.getTitle();
     }
 

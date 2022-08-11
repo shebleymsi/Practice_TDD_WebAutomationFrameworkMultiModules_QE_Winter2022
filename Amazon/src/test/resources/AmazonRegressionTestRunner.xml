@@ -13,11 +13,9 @@
 
     <test name="Amazon Web Automation">
         <classes>
-            <!--            <class name="com.amazon.testPages.HomePageTest.HomePageTest"/>-->
-            <!--            <class name="com.amazon.testPages.HomePageTest.HomePageTest1"/>-->
-<!--            <class name="com.amazon.testPages.HomePageTest.HomePageTest2"/>-->
-<!--            <class name="com.amazon.testPages.HomePageTest.HomePageNewTest"/>-->
-            <!--            <class name="com.amazon.testPages.RegistrationPageTest.RegistrationPageTest"/>-->
+
+            <class name="testpages.HomePageNewTest"/>
+
 
 
         </classes>
