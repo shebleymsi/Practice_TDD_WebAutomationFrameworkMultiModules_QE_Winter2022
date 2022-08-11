@@ -15,7 +15,8 @@ import org.testng.annotations.Test;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-import static configuration.common.WebTestBase.driver;
+import static common.WebTestBase.driver;
+
 
 public class DataProviderUtils {
     // Similar to TestNG Parameters, DataProviders are a means to pass data to test scripts in TestNG. Using DataProvider in TestNG, we can easily inject multiple values into the same test case. It comes inbuilt in TestNG and is popularly used in data-driven frameworks.
